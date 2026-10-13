@@ -1,3 +1,5 @@
+**Türkçe** | [English](README.en.md)
+
 # Filament Kalınlığı Ölçüm Sensör Kartı
 
 DYROBX Robotik kapsamında, filament kalınlığının (çapının) izlenmesine yönelik geliştirdiğim sensör kartı. Proje; Hall sensöründen alınan analog verinin sayısallaştırılmasını, mikrodenetleyici tarafından işlenmesini ve ana kontrol sistemiyle haberleşmesini aynı PCB üzerinde bir araya getiriyor.
@@ -51,6 +53,7 @@ Fotoğraflara tıklayarak tam boyutlu görüntüleri açabilirsiniz.
 ## Depo İçeriği
 
 - `README.md`: Proje amacı, donanım mimarisi ve kişisel katkım.
+- `README.en.md`: Proje tanıtımının İngilizce sürümü.
 - `kart-on-yuz.jpg`: Dizgisi tamamlanan kartın ön yüzü.
 - `kart-arka-yuz.jpg`: Kartın arka yüzü.
 - `hall-sensor-montaji.jpg`: Hall sensörünün kart üzerindeki montajı.
